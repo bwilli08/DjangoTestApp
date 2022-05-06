@@ -11,3 +11,8 @@ This project was created following the [Django Project tutorial](https://docs.dj
 1. Change your models (in models.py).
 2. Run `python manage.py makemigrations` to create migrations for those changes
 3. Run `python manage.py migrate` to apply those changes to the database.
+
+### Tests and Coverage
+1. Run tests with `python manage.py test polls`
+2. Check coverage with `coverage run --source='.' manage.py test polls` and `coverage report`
+  * Ensure coverage is installed with `python -m pip install coverage`
