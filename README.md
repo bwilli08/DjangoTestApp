@@ -15,4 +15,4 @@ This project was created following the [Django Project tutorial](https://docs.dj
 ### Tests and Coverage
 1. Run tests with `python manage.py test polls`
 2. Check coverage with `coverage run --source='.' manage.py test polls` and `coverage report`
-  * Ensure coverage is installed with `python -m pip install coverage`
+    * Ensure coverage is installed with `python -m pip install coverage`
