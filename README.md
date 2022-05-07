@@ -2,6 +2,8 @@
 
 This project was created following the [Django Project tutorial](https://docs.djangoproject.com/en/4.0/intro/tutorial01/).
 
+This project requires Python 3.9 or later and Django 3.0 or later
+
 ## Important Workflows
 
 ### Starting Development Server
